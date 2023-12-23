@@ -1,0 +1,24 @@
+:root {
+    --primary-color: lightgreen;
+    --bg-color: white;
+    --color: #333;
+    --text-color: darkblue;
+}
+
+body {
+    margin: 0;
+    background-color: var(--bg-color);
+    color: var(--color);
+}
+
+[data-theme="dark"] {
+    --primary-color: darkblue;
+    --bg-color: #000;
+    --color: #ddd;
+    --text-color: lightgreen;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
