@@ -15,7 +15,8 @@
             <a href = "/about">Go to the ad</a>
         </Button>
         <Button size = "medium">
-            <a href = "/active members">View our active members</a>
+            <a href = "/active">View our active members</a>
+        </Button>
     </div>
     <div class="contact">
         <h3>Contact Us</h3>
@@ -23,6 +24,7 @@
         <p>via <a class="con" href="https://discord.gg/W9wrutfmWg">Discord</a></p>
     </div>
 </div>
+
 
 <style>
     .grid {
