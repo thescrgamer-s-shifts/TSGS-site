@@ -12,10 +12,13 @@
             overview you can use the button below to see our ad to the server.
         </p>
         <Button size = "medium">
-            <a href = "/about">Go to the ad</a>
+            <a href = "/ad">Go to the ad</a>
         </Button>
         <Button size = "medium">
             <a href = "/active">View our active members</a>
+        </Button>
+        <Button size = "medium">
+            <a href = "/about">About us</a>
         </Button>
     </div>
     <div class="contact">

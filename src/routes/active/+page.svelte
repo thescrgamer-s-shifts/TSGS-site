@@ -22,7 +22,7 @@
    <style>
     h3 {
         color: var(--color);
-        font-size: 1.4em;
+        font-size: 1.1em;
     }
     h2 {
         color: var(--color);
