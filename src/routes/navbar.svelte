@@ -19,9 +19,9 @@
       href: "/ad",
     },
     {
-      title: "Active Members"
-      href: "/active members"
-    }
+      title: "Active Members",
+      href: "/active",
+    },
   ];
 
   let currentTheme = "";
