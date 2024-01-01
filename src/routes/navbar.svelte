@@ -22,10 +22,6 @@
       title: "Active Members",
       href: "/active",
     },
-    {
-      title: "Partners",
-      href: "/partner",
-    },
   ];
 
   let currentTheme = "";
