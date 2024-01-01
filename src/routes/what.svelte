@@ -6,14 +6,16 @@
     <div class="what">
         <h3>What we do</h3>
         <p>
-            We offer you shifts for every roblox game. You can also book shifts if you got a private server for a game
-            and you want to play with some friends from the Community. We got a nice staff team and we're open to
-            everyone, who needs help or also wants to become a member of the staff team. If you want to get a short
+            We offer you shifts for every roblox game. You can also book shifts if you have a private server for a game
+            and you want to play with some friends from the Community. We also have a nice staff team and we're open to
+            everyone who needs help or also wants to become a member of the staff team. If you want to get a short
             overview you can use the button below to see our ad to the server.
         </p>
         <Button size = "medium">
             <a href = "/about">Go to the ad</a>
         </Button>
+        <Button size = "medium">
+            <a href = "/active members">View our active members</a>
     </div>
     <div class="contact">
         <h3>Contact Us</h3>

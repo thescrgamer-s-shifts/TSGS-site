@@ -17,6 +17,10 @@
     {
       title: "Ad",
       href: "/ad",
+    },
+    {
+      title: "Active Members"
+      href: "/active members"
     }
   ];
 
@@ -49,7 +53,7 @@
 
 <nav>
   <div class="container">
-    <h1>TSGS</h1>
+    <h1>thescrgamer's shifts - Official Website</h1>
 
     <ul>
       {#each navs as { title, href }}
