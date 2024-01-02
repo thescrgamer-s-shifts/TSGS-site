@@ -15,7 +15,7 @@
             <a href = "/ad">Go to the ad</a>
         </Button>
         <Button size = "medium">
-            <a href = "/active">View our active members</a>
+            <a href = "/staff">Our staff team</a>
         </Button>
         <Button size = "medium">
             <a href = "/about">About us</a>
