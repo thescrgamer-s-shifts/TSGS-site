@@ -11,7 +11,7 @@
 
 <div class="container">
    <h3>Our active members are:
-   - TheActualSquare, Eiectric_spy, Akkarawatyoo, Nathan2113scr, Zurueck94, Barnus5782, SuperJ3060, Trial_Gamer608 (lead dev of this website) and zapasowywojtan (dev of this website)</h3>
+   - TheActualSquare, Eiectric_spy, Akkarawatyoo, Nathan2113scr, Zurueck94, Barnus5782, SuperJ3060, Henry1234Henry123 Trial_Gamer608 (lead dev of this website) and zapasowywojtan (dev of this website)</h3>
 </div>
 
 <div class="container">
