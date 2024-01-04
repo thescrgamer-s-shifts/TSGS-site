@@ -18,14 +18,6 @@
       title: "Ad",
       href: "/ad",
     },
-    {
-      title: "Active Members",
-      href: "/active",
-    },
-    {
-      title: "About our staff",
-      href: "/staff",
-    },
   ];
 
   let currentTheme = "";

@@ -1,18 +1,18 @@
 <div class="container">
-<h1> Junior Moderators </h1>
+<h1> The Management Board </h1>
 </div>
 
 <div class="container">
-<h2> A list of our current Junior Moderators as of 02/01/2024</h2>
+<h2> A list of our current Managers as of 02/01/2024</h2>
 </div>
 
 <div class="container">
-<h3> - Nathan2113scr
-- Zeloplay
-- Zurueck94
-- Henry1234Henry123
-- Sw_Eliasz
-- Tyronheinig99
+<h3> 
+- JumpoutPlayz_Backup - Human Resource Manager
+- WestiebearGaming - Human Resource Manager
+- Akkarawatyoo - Public Relations Manager
+- itzzseb_177 - Engagement Manager
+- Eiectric_Spy - Community Manager
 </h3>
 </div>
 
@@ -33,4 +33,3 @@ h3 {
         font-size: 1.2em;
     }
 </style>
-

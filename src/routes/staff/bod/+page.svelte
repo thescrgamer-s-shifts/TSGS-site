@@ -1,18 +1,17 @@
 <div class="container">
-<h1> Junior Moderators </h1>
+<h1> The Directors/Server Owners </h1>
 </div>
 
 <div class="container">
-<h2> A list of our current Junior Moderators as of 02/01/2024</h2>
+<h2> A list of our current Directors as of 02/01/2024</h2>
 </div>
 
 <div class="container">
-<h3> - Nathan2113scr
-- Zeloplay
-- Zurueck94
-- Henry1234Henry123
-- Sw_Eliasz
-- Tyronheinig99
+<h3> 
+- zapasowywojtan - Server Owner
+- OskiZbr - Server Co-Owner
+- SuperJ3060 - Innovations Director - manager of the HRM & PRM team
+- Trial_Gamer608 - manager of the entire Staff team
 </h3>
 </div>
 
@@ -33,4 +32,3 @@ h3 {
         font-size: 1.2em;
     }
 </style>
-

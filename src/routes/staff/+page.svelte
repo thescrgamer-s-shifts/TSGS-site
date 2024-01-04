@@ -27,6 +27,9 @@ They all make sure the server runs smoothly!</h2>
 <Button size = "medium">
             <a href = "/bod">Directors</a>
         </Button>
+<Button size = "medium">
+            <a href = "/become">Become a Staff</a>
+        </Button>
 </div>
 
 <style>

@@ -1,18 +1,15 @@
 <div class="container">
-<h1> Junior Moderators </h1>
+<h1> Senior Moderators </h1>
 </div>
 
 <div class="container">
-<h2> A list of our current Junior Moderators as of 02/01/2024</h2>
+<h2> A list of our current Senior Moderators as of 02/01/2024</h2>
 </div>
 
 <div class="container">
-<h3> - Nathan2113scr
-- Zeloplay
-- Zurueck94
-- Henry1234Henry123
-- Sw_Eliasz
-- Tyronheinig99
+<h3>
+- TheActualSquare
+- Skynet2010s
 </h3>
 </div>
 
@@ -33,4 +30,3 @@ h3 {
         font-size: 1.2em;
     }
 </style>
-
