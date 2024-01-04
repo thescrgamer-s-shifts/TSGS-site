@@ -18,11 +18,8 @@
 
 <style>
 h1 {
-        padding-bottom: 0.5em;
-        margin-bottom: 0.5em;
-        font-size: 1.7em;
-        font-weight: 500;
-        border-bottom: 1px solid #ddd;
+        color: var(--color);
+        font-size: 1.8em;
     },
 h2 {
         color: var(--color);
