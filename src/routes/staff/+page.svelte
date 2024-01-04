@@ -1,3 +1,7 @@
+<script>
+    import Button from "$lib/button.svelte"
+</script>
+
 <div class="container">
 <h1>Our Staff Team</h1>
 </div>
@@ -41,7 +45,7 @@ They all make sure the server runs smoothly!</h2>
         font-size: 2em;
         font-weight: 500;
         border-bottom: 1px solid #ddd;
-    },
+    }
     h2 {
         padding-bottom: 0.5em;
         margin-bottom: 0.5em;
