@@ -14,22 +14,22 @@ They all make sure the server runs smoothly!</h2>
 <div class="ourstaff">
 <h1>Filter staff members by role</h1>
 <Button size = "medium">
-            <a href = "/jrmod">Junior Moderators</a>
+            <a href = "/staff/jrmod">Junior Moderators</a>
         </Button>
 <Button size = "medium">
-            <a href = "/mod">Moderators</a>
+            <a href = "/staff/mod">Moderators</a>
         </Button>
 <Button size = "medium">
-            <a href = "/srmod">Senior Moderators</a>
+            <a href = "/staff/srmod">Senior Moderators</a>
         </Button>
 <Button size = "medium">
-            <a href = "/admin">Administrators</a>
+            <a href = "/staff/admin">Administrators</a>
         </Button>
 <Button size = "medium">
-            <a href = "/manager">Managers</a>
+            <a href = "/staff/manager">Managers</a>
         </Button>
 <Button size = "medium">
-            <a href = "/bod">Directors</a>
+            <a href = "/staff/bod">Directors</a>
         </Button>
 </div>
 
