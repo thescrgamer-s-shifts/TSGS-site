@@ -22,7 +22,7 @@ h1 {
         font-size: 1.7em;
         font-weight: 500;
         border-bottom: 1px solid #ddd;
-    },
+    }
 h2 {
         color: var(--color);
         font-size: 1.4em;

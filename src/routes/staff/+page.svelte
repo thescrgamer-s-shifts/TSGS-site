@@ -32,7 +32,7 @@ They all make sure the server runs smoothly!</h2>
             <a href = "/staff/bod">Directors</a>
         </Button>
 <Button size = "medium">
-            <a href = "/become">Become a Staff</a>
+            <a href = "/staff/become">Become a Staff</a>
         </Button>
 </div>
 

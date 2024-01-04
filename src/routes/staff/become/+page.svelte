@@ -1,3 +1,7 @@
+<script>
+    import Button from "$lib/button.svelte"
+</script>
+
 <div class="container">
 <h1> Become a Staff Member - tutorial </h1>
 </div>
@@ -35,7 +39,7 @@ get promoted. </h2>
         font-size: 2em;
         font-weight: 500;
         border-bottom: 1px solid #ddd;
-    },
+    }
     h2 {
         padding-bottom: 0.5em;
         margin-bottom: 0.5em;
